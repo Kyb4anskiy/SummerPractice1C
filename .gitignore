@@ -1,0 +1,23 @@
+# Файловая база 1С
+*.1CD
+*.cfl
+*.lck
+*.tmp
+*.lock
+*.log
+
+# Каталоги 1С
+1Cv8Log/
+1Cv8JobScheduler/
+
+# IDE и системные файлы
+.vscode/
+.idea/
+*.suo
+*.user
+*.dsk
+.DS_Store
+Thumbs.db
+
+# Бэкапы
+*.bak
